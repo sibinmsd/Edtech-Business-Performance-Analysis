@@ -1,12 +1,41 @@
 **EdTech Business Performance Dashboard**
 
 ## Project Overview
-Analyzed user data in an EdTech platform using Google Sheets to identify trends in user enrollment based on region, age, gender, courses
+Built an interactive Excel and Google Sheets dashboard to analyze 1,000 student records from an EdTech platform, tracking revenue, student demographics, payment status, device usage, and engagement metrics.
+
+## Dashboard Preview 
+
+<img width="406" height="320" alt="project51" src="https://github.com/user-attachments/assets/30c33fb5-6016-48cf-adb1-35572f12831a" />
+
+
+## Dataset
+- 1,000 student records
+- Revenue
+- Course
+- Device
+- Payment Status
+- Region
+- Passing Year
+- Student Points
+- Learning Streak
 
 ## Tools Used
+- Microsoft Excel
 - Google Sheets
 - Pivot Tables
-- Charts
+- Pivot Charts
+- Slicers
+- Conditional & aggregation formulas
+- Dashboard Design
+
+## KPIs 
+- Total Revenue :- The total payment collected from enrolled students.
+- Total Students :- Total number of students enrolled in the platform.
+- Average Revenue Per student :- Total Revenue/Total Students
+- Mobile Users :- Percentage of users with mobile as sign up device 
+- Payment Completion Rate :- Percentage of total revenue actually received from students
+- Average Streak :- Average of the number of days students visited the platform continuously
+- Average Points :- Average of the points acquired by students by completing course modules 
 
 ## Key Insights
 - The platform is more familiar in North and South regions
@@ -20,3 +49,14 @@ Analyzed user data in an EdTech platform using Google Sheets to identify trends 
 - Maintain the quality of delivery via mobile application
 - Evaluate the course content of Web development course and redesign the course to meet industry standards
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- KPI Development
+- Business Analysis
+- Data Storytelling
