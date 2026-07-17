@@ -1,4 +1,4 @@
-**EdTech Platform User analysis Dashboard**
+**EdTech Business Performance Dashboard**
 
 ## Project Overview
 Analyzed user data in an EdTech platform using Google Sheets to identify trends in user enrollment based on region, age, gender, courses
