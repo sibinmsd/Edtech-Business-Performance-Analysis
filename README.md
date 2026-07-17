@@ -33,22 +33,22 @@ Built an interactive Excel and Google Sheets dashboard to analyze 1,000 student 
 - Total Students :- Total number of students enrolled in the platform.
 - Average Revenue Per student :- Total Revenue/Total Students
 - Mobile Users :- Percentage of users with mobile as sign up device 
-- Payment Completion Rate :- Percentage of total revenue actually received from students
+- Payment Completion Rate :- Percentage of enrolled students whose payment status is Completed.
 - Average Streak :- Average of the number of days students visited the platform continuously
 - Average Points :- Average of the points acquired by students by completing course modules 
 
 ## Key Insights
-- The platform is more familiar in North and South regions
-- Courses are more useful for recent passout students as well as current full time students 
-- More than three-fourth of the users use mobile for learning
-- Very few students are enrolled in web development course
-
+- North (344 students) and South (259 students) account for over 60% of total enrollments, indicating stronger market   penetration in these regions.
+- Students graduating between 2022–2026 represent the largest enrollment group (650 students), suggesting the platform primarily attracts recent graduates and current students.
+- 77.2% of students access the platform using mobile devices, making mobile the dominant learning platform.
+- Kickstarting Web Development has the lowest enrollment (19 students), significantly below the other available courses.
+- Only 32.8% of students have completed payments, highlighting an opportunity to improve payment conversion and reduce pending transactions.
 ## Recommendations
-- Launch marketing campaigns in East and West regions
-- Ensure course content is relevant and helps career transitioners as well
-- Maintain the quality of delivery via mobile application
-- Evaluate the course content of Web development course and redesign the course to meet industry standards
-
+- Increase targeted marketing campaigns in East and West regions to improve student acquisition and balance regional enrollment.
+- Continue developing courses aligned with the needs of recent graduates while exploring programs tailored for working professionals to diversify the learner base.
+- Continue investing in the mobile learning experience, as over 77% of students access the platform via mobile devices.
+- Review the Web Development course offering, pricing, and curriculum to identify factors contributing to low enrollment and improve its market appeal.
+- Introduce automated payment reminders and simplify the payment process to improve payment completion rates.
 ## Skills Demonstrated
 
 - Data Cleaning
